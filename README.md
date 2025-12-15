@@ -47,7 +47,7 @@ Após a Silver, é executada uma análise de qualidade que valida:
 
 Os resultados confirmam a confiabilidade da camada Silver para uso analítico.
 
-**Catálogo de Dados**
+Catalogo de Dados
 
 Foi construído um catálogo técnico da camada Silver, documentando colunas, tipos, exemplos de domínio, valores mínimos e máximos e descrições funcionais. Esse catálogo apoia governança, entendimento do modelo e manutenção do pipeline.
 
