@@ -75,3 +75,4 @@ Com a camada Gold, foram realizadas análises que respondem a perguntas de negó
 **Resultado Final**
 
 O projeto entrega um Data Warehouse confiável, documentado e analiticamente consistente, permitindo consultas SQL, visualizações e geração de insights sobre 20 anos do Campeonato Brasileiro.
+
