@@ -15,6 +15,8 @@ Este projeto implementa um pipeline analítico completo para dados históricos d
 
 Os dados foram obtidos a partir de datasets públicos do Kaggle, em formato CSV, sem restrições de licença, e abrangem partidas, gols, cartões e estatísticas de jogo.
 
+Os arquivos CSV foram carregados diretamente no catálogo do Databricks, integrando o metastore como fontes da camada Bronze. Esse procedimento garantiu execução centralizada, controle de schema e disponibilidade imediata dos dados para processamento distribuído e para as etapas subsequentes do pipeline (Silver e Gold).
+
 **Arquitetura e Pipeline de Dados**
 
 **Camada Bronze — Ingestão**
