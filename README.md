@@ -89,9 +89,8 @@ A resolução desses desafios reforçou a importância da camada Silver para gar
 Leia o relatório em PDF para o contexto completo.
 
 Acesse os notebooks indicados em cada seção para visualizar:
-
-    - Código executado
-    - Resultados
-    - Gráficos e análises
+- Código executado
+- Resultados
+- Gráficos e análises
 
 
