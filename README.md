@@ -78,3 +78,9 @@ Com a camada Gold, foram realizadas análises que respondem a perguntas de negó
 
 O projeto entrega um Data Warehouse confiável, documentado e analiticamente consistente, permitindo consultas SQL, visualizações e geração de insights sobre 20 anos do Campeonato Brasileiro.
 
+**Autoavaliação**
+
+Este projeto proporcionou um aprendizado prático relevante em engenharia de dados e análise analítica, especialmente no tratamento, validação e organização de dados históricos. As principais dificuldades estiveram relacionadas à qualidade dos dados de origem, à padronização de campos e às limitações do ambiente de execução, exigindo ajustes iterativos no pipeline.
+
+A resolução desses desafios reforçou a importância da camada Silver para garantia da consistência dos dados, da análise de qualidade antes da modelagem dimensional e da documentação adequada do processo. Ao final, o projeto atendeu aos objetivos propostos e contribuiu para o amadurecimento técnico na construção de pipelines analíticos reprodutíveis e bem estruturados.
+
