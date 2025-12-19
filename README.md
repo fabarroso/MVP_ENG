@@ -84,3 +84,14 @@ Este projeto proporcionou um aprendizado prático relevante em engenharia de dad
 
 A resolução desses desafios reforçou a importância da camada Silver para garantia da consistência dos dados, da análise de qualidade antes da modelagem dimensional e da documentação adequada do processo. Ao final, o projeto atendeu aos objetivos propostos e contribuiu para o amadurecimento técnico na construção de pipelines analíticos reprodutíveis e bem estruturados.
 
+**Como Navegar pelo Projeto**
+
+Leia o relatório em PDF para o contexto completo.
+
+Acesse os notebooks indicados em cada seção para visualizar:
+
+    - Código executado
+    - Resultados
+    - Gráficos e análises
+
+
